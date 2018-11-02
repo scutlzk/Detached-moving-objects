@@ -1,0 +1,24 @@
+﻿生成启动时间为 2018/11/2 21:07:31。
+     1>项目“C:\Users\l1005\Desktop\新建文件夹 (2)\deived_tubes\deived_tubes.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\vs2015\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt bwlable.cpp fillhole.cpp main.cpp
+         bwlable.cpp
+     1>bwlable.cpp(101): warning C4244: “初始化”: 从“double”转换到“uchar”，可能丢失数据
+     1>bwlable.cpp(102): warning C4244: “初始化”: 从“double”转换到“uchar”，可能丢失数据
+     1>bwlable.cpp(103): warning C4244: “初始化”: 从“double”转换到“uchar”，可能丢失数据
+     1>bwlable.cpp(143): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+         fillhole.cpp
+         main.cpp
+       Link:
+         E:\vs2015\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\l1005\Desktop\新建文件夹 (2)\deived_tubes\x64\Release\deived_tubes.exe" /NOLOGO opencv_world331.lib opencv_world331d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\l1005\Desktop\新建文件夹 (2)\deived_tubes\x64\Release\deived_tubes.pdb" /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\l1005\Desktop\新建文件夹 (2)\deived_tubes\x64\Release\deived_tubes.lib" /MACHINE:X64 x64\Release\bwlable.obj
+         x64\Release\fillhole.obj
+         x64\Release\main.obj
+         正在生成代码
+         All 438 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         已完成代码的生成
+         deived_tubes.vcxproj -> C:\Users\l1005\Desktop\新建文件夹 (2)\deived_tubes\x64\Release\deived_tubes.exe
+     1>已完成生成项目“C:\Users\l1005\Desktop\新建文件夹 (2)\deived_tubes\deived_tubes.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:03.55
